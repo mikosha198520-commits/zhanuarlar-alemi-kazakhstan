@@ -1,0 +1,12 @@
+{
+  "name": "Жануарлар әлемі – Қазақстан",
+  "short_name": "Жануарлар әлемі",
+  "description": "Қазақстан өңірлерінің жануарлар әлемін зерттейтін интерактивті экологиялық қосымша",
+  "lang": "kk",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7ef",
+  "theme_color": "#173f35",
+  "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
